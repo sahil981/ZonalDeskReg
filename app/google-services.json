@@ -1,0 +1,394 @@
+{
+  "project_info": {
+    "project_number": "486721613824",
+    "firebase_url": "https://zonal-desk.firebaseio.com",
+    "project_id": "zonal-desk",
+    "storage_bucket": "zonal-desk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:71528702f44cf619",
+        "android_client_info": {
+          "package_name": "com.example.sahil.zonaldesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:0a8b50a6bda76434",
+        "android_client_info": {
+          "package_name": "com.example.sahil.otpveri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-cvsjfdbh57q7ij16v6i60g19ck5s6f4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.otpveri",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:c8ad29ae6b42a026",
+        "android_client_info": {
+          "package_name": "com.example.sahil.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-spp45mq2v5hil54hoqcveegm0bang8kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.firebaserealtimedatabase",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:8f210cb240f62609",
+        "android_client_info": {
+          "package_name": "com.example.sahil.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-aqns7bdq9onfvrukn31rjbsqivfufvgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.fireapp",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:07a7538219d34a69",
+        "android_client_info": {
+          "package_name": "com.example.sahil.fireapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-72c18m0qcoa1kl7t4aq080td468l8bv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.fireapp2",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:f632e87d8e25152a",
+        "android_client_info": {
+          "package_name": "com.example.sahil.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-e6hpkl1i7gha7g1lbph55hio8f5pcg0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.test1",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:d5868fa17982956f",
+        "android_client_info": {
+          "package_name": "iacademia.zonaldesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-6d1sh09c917esusc59fsh7hf2r2gfdds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iacademia.zonaldesk",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:61357f3a7c7ee9dc",
+        "android_client_info": {
+          "package_name": "com.example.sahil.firelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-07in34c0csl2m89mretnum58p11p1pge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.firelearn",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486721613824:android:2a74953dc0fcd69f",
+        "android_client_info": {
+          "package_name": "com.example.sahil.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486721613824-43tofvcvnltls9cooh9pprb46lth41tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sahil.firestorage",
+            "certificate_hash": "b9f05c21612c84e578bd7c8adc87bff071e86755"
+          }
+        },
+        {
+          "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASPvEHeXmAxD9Om--85y3MqykOxsiiVhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486721613824-4u5pi56k5fm6jjvh2lbs350gb8msqsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

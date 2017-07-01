@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZonalDesk</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="verify_plz">Please enter the verification code.</string>
+    <string name="no_otp">Didn\'t recieve the OTP?</string>
+    <string name="instant_validation">(instant validation)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
